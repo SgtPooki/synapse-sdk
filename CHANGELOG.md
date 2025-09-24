@@ -4,6 +4,18 @@
 
 * add terminateDataSet functionality ([#230](https://github.com/FilOzone/synapse-sdk/issues/230)) ([ffaacac](https://github.com/FilOzone/synapse-sdk/commit/ffaacac507b4882abfc33d3de72fe9fa98843cd2))
 
+## [0.28.1](https://github.com/FilOzone/synapse-sdk/compare/v0.28.0...v0.28.1) (2025-09-24)
+
+
+### Bug Fixes
+
+* **ci:** no tabs in workflow file ([#237](https://github.com/FilOzone/synapse-sdk/issues/237)) ([b9c2275](https://github.com/FilOzone/synapse-sdk/commit/b9c2275fda73b5e40320795675de980887230cbe))
+
+
+### Chores
+
+* **ci:** switch from semantic-release to release-please ([#233](https://github.com/FilOzone/synapse-sdk/issues/233)) ([9f84cc6](https://github.com/FilOzone/synapse-sdk/commit/9f84cc6d0db1f99d9c81f962e3f06584c49dd461))
+
 ## [0.27.0](https://github.com/FilOzone/synapse-sdk/compare/v0.26.0...v0.27.0) (2025-09-19)
 
 ### Features
